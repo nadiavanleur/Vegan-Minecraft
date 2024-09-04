@@ -18,7 +18,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:milk_bucket",
+    "id": "minecraft:milk_bucket",
     "count": 1
   }
 }

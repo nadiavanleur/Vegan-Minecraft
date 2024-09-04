@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:chorus_fruit"
   },
-  "result": "minecraft:ender_pearl",
+  "result": {
+    "id": "minecraft:ender_pearl"
+  },
   "experience": 0,
   "cookingtime": 500
 }

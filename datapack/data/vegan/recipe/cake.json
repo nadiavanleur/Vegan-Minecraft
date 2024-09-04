@@ -16,7 +16,7 @@
     }
   },
   "result": {
-    "item": "minecraft:cake",
+    "id": "minecraft:cake",
     "count": 1
   }
 }

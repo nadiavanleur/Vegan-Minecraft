@@ -12,7 +12,7 @@
     }
   ],
   "result": {
-    "item": "minecraft:glow_ink_sac",
+    "id": "minecraft:glow_ink_sac",
     "count": 1
   }
 }

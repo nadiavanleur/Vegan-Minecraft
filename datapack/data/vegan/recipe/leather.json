@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:lily_pad"
   },
-  "result": "minecraft:rabbit_hide",
+  "result": {
+    "id": "minecraft:rabbit_hide"
+  },
   "experience": 0,
   "cookingtime": 300
 }

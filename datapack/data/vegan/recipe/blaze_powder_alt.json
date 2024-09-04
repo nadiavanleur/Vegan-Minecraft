@@ -17,7 +17,7 @@
     }
   },
   "result": {
-    "item": "minecraft:blaze_powder",
+    "id": "minecraft:blaze_powder",
     "count": 1
   }
 }

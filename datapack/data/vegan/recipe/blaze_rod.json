@@ -4,17 +4,17 @@
   "pattern": [" # ", "B/B", " # "],
   "key": {
     "#": {
-      "item": "minecraft:blaze_powder"
+      "item": "minecraft:gold_nugget"
     },
     "B": {
-      "item": "minecraft:gold_nugget"
+      "item": "minecraft:blaze_powder"
     },
     "/": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "minecraft:blaze_rod",
+    "id": "minecraft:blaze_rod",
     "count": 1
   }
 }
