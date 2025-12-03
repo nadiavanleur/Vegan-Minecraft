@@ -1,12 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:experience_bottle"
-    },
-    {
-      "item": "minecraft:slime_ball"
-    }
+    "minecraft:experience_bottle",
+    "minecraft:slime_ball"
   ],
   "result": {
     "id": "minecraft:ender_pearl",

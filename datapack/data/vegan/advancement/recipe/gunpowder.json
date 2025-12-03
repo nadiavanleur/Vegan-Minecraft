@@ -1,11 +1,11 @@
 {
-  "parent": "vegan:recipes/root",
+  "parent": "vegan:recipe/root",
   "criteria": {
     "has_charcoal": {
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:charcoal"]
+            "items": "minecraft:charcoal"
           }
         ]
       },
@@ -15,7 +15,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:wheat"]
+            "items": "minecraft:wheat"
           }
         ]
       },
@@ -25,7 +25,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:sugar"]
+            "items": "minecraft:sugar"
           }
         ]
       },

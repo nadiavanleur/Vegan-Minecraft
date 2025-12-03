@@ -3,18 +3,10 @@
   "group": "blaze_powder",
   "pattern": ["#G#", "NEN", "#G#"],
   "key": {
-    "#": {
-      "item": "minecraft:glowstone_dust"
-    },
-    "G": {
-      "item": "minecraft:gold_nugget"
-    },
-    "N": {
-      "item": "minecraft:nether_wart"
-    },
-    "E": {
-      "item": "minecraft:gunpowder"
-    }
+    "#": "minecraft:glowstone_dust",
+    "G": "minecraft:gold_nugget",
+    "N": "minecraft:nether_wart",
+    "E": "minecraft:gunpowder"
   },
   "result": {
     "id": "minecraft:blaze_powder",

@@ -1,12 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:coal"
-    },
-    {
-      "item": "minecraft:clay_ball"
-    }
+    "minecraft:coal",
+    "minecraft:clay_ball"
   ],
   "result": {
     "id": "minecraft:ink_sac",

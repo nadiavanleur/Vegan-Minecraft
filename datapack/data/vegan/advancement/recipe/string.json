@@ -1,11 +1,11 @@
 {
-  "parent": "vegan:recipes/root",
+  "parent": "vegan:recipe/root",
   "criteria": {
     "has_wheat": {
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:wheat"]
+            "items": "minecraft:wheat"
           }
         ]
       },

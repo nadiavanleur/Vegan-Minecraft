@@ -1,11 +1,11 @@
 {
-  "parent": "vegan:recipes/root",
+  "parent": "vegan:recipe/root",
   "criteria": {
     "has_vine": {
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:vine"]
+            "items": "minecraft:vine"
           }
         ]
       },
@@ -15,7 +15,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:clay_ball"]
+            "items": "minecraft:clay_ball"
           }
         ]
       },

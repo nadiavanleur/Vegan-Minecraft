@@ -3,15 +3,9 @@
   "group": "honey_bottle",
   "pattern": ["S#S", "#P#", "S#S"],
   "key": {
-    "#": {
-      "item": "minecraft:orange_dye"
-    },
-    "S": {
-      "item": "minecraft:sugar"
-    },
-    "P": {
-      "item": "minecraft:potion"
-    }
+    "#": "minecraft:orange_dye",
+    "S": "minecraft:sugar",
+    "P": "minecraft:potion"
   },
   "result": {
     "id": "minecraft:honey_bottle",

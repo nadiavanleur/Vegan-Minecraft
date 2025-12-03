@@ -1,11 +1,11 @@
 {
-  "parent": "vegan:recipes/root",
+  "parent": "vegan:recipe/root",
   "criteria": {
     "has_blaze_powder": {
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:blaze_powder"]
+            "items": "minecraft:blaze_powder"
           }
         ]
       },
@@ -15,7 +15,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:gold_nugget"]
+            "items": "minecraft:gold_nugget"
           }
         ]
       },
@@ -25,7 +25,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:stick"]
+            "items": "minecraft:stick"
           }
         ]
       },

@@ -1,11 +1,11 @@
 {
-  "parent": "vegan:recipes/root",
+  "parent": "vegan:recipe/root",
   "criteria": {
     "has_orange_dye": {
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:orange_dye"]
+            "items": "minecraft:orange_dye"
           }
         ]
       },
@@ -15,7 +15,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:sugar"]
+            "items": "minecraft:sugar"
           }
         ]
       },
@@ -25,7 +25,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:potion"]
+            "items": "minecraft:potion"
           }
         ]
       },

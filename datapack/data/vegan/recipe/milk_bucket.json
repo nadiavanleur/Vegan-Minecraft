@@ -1,21 +1,10 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:wheat"
-    },
-    {
-      "item": "minecraft:wheat"
-    },
-    {
-      "item": "minecraft:wheat"
-    },
-    {
-      "item": "minecraft:bucket"
-    },
-    {
-      "item": "minecraft:water_bucket"
-    }
+    "minecraft:wheat",
+    "minecraft:wheat",
+    "minecraft:wheat",
+    "minecraft:water_bucket"
   ],
   "result": {
     "id": "minecraft:milk_bucket",

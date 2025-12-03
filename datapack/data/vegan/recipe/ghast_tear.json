@@ -2,21 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["#GX", "BQB", "XG#"],
   "key": {
-    "#": {
-      "item": "minecraft:fire_charge"
-    },
-    "G": {
-      "item": "minecraft:glowstone_dust"
-    },
-    "X": {
-      "item": "minecraft:glow_ink_sac"
-    },
-    "B": {
-      "item": "minecraft:blaze_powder"
-    },
-    "Q": {
-      "item": "minecraft:quartz"
-    }
+    "#": "minecraft:fire_charge",
+    "G": "minecraft:glowstone_dust",
+    "X": "minecraft:glow_ink_sac",
+    "B": "minecraft:blaze_powder",
+    "Q": "minecraft:quartz"
   },
   "result": {
     "id": "minecraft:ghast_tear",

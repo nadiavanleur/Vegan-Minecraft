@@ -3,15 +3,9 @@
   "group": "blaze_rod",
   "pattern": [" # ", "B/B", " # "],
   "key": {
-    "#": {
-      "item": "minecraft:blaze_powder"
-    },
-    "B": {
-      "item": "minecraft:gold_nugget"
-    },
-    "/": {
-      "item": "minecraft:stick"
-    }
+    "#": "minecraft:blaze_powder",
+    "B": "minecraft:gold_nugget",
+    "/": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:blaze_rod",

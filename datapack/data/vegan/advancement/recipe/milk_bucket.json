@@ -1,21 +1,11 @@
 {
-  "parent": "vegan:recipes/root",
+  "parent": "vegan:recipe/root",
   "criteria": {
     "has_wheat": {
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:wheat"]
-          }
-        ]
-      },
-      "trigger": "minecraft:inventory_changed"
-    },
-    "has_bucket": {
-      "conditions": {
-        "items": [
-          {
-            "items": ["minecraft:bucket"]
+            "items": "minecraft:wheat"
           }
         ]
       },
@@ -25,7 +15,7 @@
       "conditions": {
         "items": [
           {
-            "items": ["minecraft:water_bucket"]
+            "items": "minecraft:water_bucket"
           }
         ]
       },
@@ -38,7 +28,7 @@
       "trigger": "minecraft:recipe_unlocked"
     }
   },
-  "requirements": [["has_wheat", "has_bucket", "has_water_bucket", "has_self"]],
+  "requirements": [["has_wheat", "has_water_bucket", "has_self"]],
   "rewards": {
     "recipes": ["vegan:milk_bucket"]
   }

@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["##", "/#"],
   "key": {
-    "#": {
-      "item": "minecraft:string"
-    },
-    "/": {
-      "item": "minecraft:stick"
-    }
+    "#": "minecraft:string",
+    "/": "minecraft:stick"
   },
   "result": {
     "id": "minecraft:feather",
